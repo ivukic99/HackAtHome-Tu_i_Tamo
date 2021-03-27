@@ -1,4 +1,4 @@
-# HackAtHome - Tu_i_Tamo
+# HackAtHome - Tu i Tamo
 ## Hackathon natjecanje 27.03.2021
 
 NA OVOM REPOSITORIJU SE NALAZE SLIKE NATJECATELJSKE APLIKACIJE TU I TAMO TIMA 3-2-1 KODIRAJ.  
