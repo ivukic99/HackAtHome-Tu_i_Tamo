@@ -25,5 +25,6 @@ NA OVOM REPOSITORIJU SE NALAZE SLIKE NATJECATELJSKE APLIKACIJE TU I TAMO TIMA 3-
 ### Članovi tima:  
 Lucija Živković, lucijaz98@gmail.com  
 Stanko Bebek, stanko.bebek@fpmoz.sum.ba   
-Andrej Prskalo, andrej.prskalo@fpmoz.sum.ba  
+Andrej Prskalo, andrej.prskalo@fpmoz.sum.ba 
+Dario Damjanović, dario.damjanovic@hotmail.com  
 Igor Vukić, igor.vukic8877@gmail.com  
