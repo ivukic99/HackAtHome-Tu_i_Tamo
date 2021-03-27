@@ -20,3 +20,10 @@ NA OVOM REPOSITORIJU SE NALAZE SLIKE NATJECATELJSKE APLIKACIJE TU I TAMO TIMA 3-
         Prikaz plaćanja putem naše stranice (kartično plaćanje).  
  7. slika:  
         Prikaz profila korisnika sa mogućnosti uređivanja te pisanja recenzija i objavljivanja foto sadržaja.  
+
+
+### Članovi tima:
+Lucija Živković, lucijaz98@gmail.com  
+Stanko Bebek, stanko.bebek@fpmoz.sum.ba  
+Andrej Prskalo, andrej.prskalo@fpmoz.sum.ba
+Igor Vukić, igor.vukic8877@gmail.com
