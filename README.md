@@ -9,7 +9,7 @@ NA OVOM REPOSITORIJU SE NALAZE SLIKE NATJECATELJSKE APLIKACIJE TU I TAMO TIMA 3-
 2.1 slika:  
         Prikaz login i register forme.  
 3. slika:  
-        Prikaz naslovnice aplikacije sa najtraženijim pretragama te osnovnim informacijama o webinarima sa mogućnostima pročitati više o pojedinoj aktivnosti.  
+        Prikaz naslovnice aplikacije sa najtraženijim pretragama te osnovnim informacijama o webinarima sa mogućnostima pročitati više o pojedinoj aktivnosti. Za svakog korisnika se vodi evidencija o pretraživanim stavkama, te se na osnovu tih preferencija korisniku nude različiti prijedlozi.  
  3.1 slika:  
         Prikaz naslovnice sa sidebar trakom i ponuđenim opcijama u navedenom sidebar-u.  
  4. slika:  
