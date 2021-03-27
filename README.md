@@ -14,7 +14,7 @@ NA OVOM REPOSITORIJU SE NALAZE SLIKE NATJECATELJSKE APLIKACIJE TU I TAMO TIMA 3-
         Prikaz naslovnice sa sidebar trakom i ponuđenim opcijama u navedenom sidebar-u.  
  4. slika:  
          Prikaz search opcije sa ponuđenim opcijama, te mogućnost suženja radijusa lokacija.  
- 5. slika:
+ 5. slika:  
          Prikaz stranice koja omogućava rezervacije, te uz to dobivate dostupne informacije o trenutnom stanju sa pandemijom covid virusa, te da li je to mjesto pogodno za putovanje.  
  6. slika:  
         Prikaz plaćanja putem naše stranice (kartično plaćanje).  
