@@ -29,4 +29,4 @@ Andrej Prskalo, andrej.prskalo@fpmoz.sum.ba
 Dario Damjanović, dario.damjanovic@hotmail.com  
 Igor Vukić, igor.vukic8877@gmail.com  
 
-###Link za Prezi prezentaciju:https://prezi.com/view/PMVxk9gzinJKi0BHemzm/
+Link za Prezi prezentaciju:https://prezi.com/view/PMVxk9gzinJKi0BHemzm/
